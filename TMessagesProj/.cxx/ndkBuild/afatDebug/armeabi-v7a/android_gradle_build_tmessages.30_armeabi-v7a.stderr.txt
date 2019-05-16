@@ -1,0 +1,13 @@
+In file included from C:/Users/Binary/StudioProjects/Telegram/TMessagesProj/jni/./TgNetWrapper.cpp:2:
+C:/Users/Binary/StudioProjects/Telegram/TMessagesProj/jni/tgnet/ApiScheme.h:14:10: fatal error: 'bits/unique_ptr.h' file not found
+#include <bits/unique_ptr.h>
+         ^~~~~~~~~~~~~~~~~~~
+1 error generated.
+make: *** [C:/Users/Binary/StudioProjects/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/debug/obj/local/armeabi-v7a/objs-debug/tmessages.30/./TgNetWrapper.o] Error 1
+make: *** Waiting for unfinished jobs....
+In file included from C:/Users/Binary/StudioProjects/Telegram/TMessagesProj/jni/./gifvideo.cpp:11:
+C:/Users/Binary/StudioProjects/Telegram/TMessagesProj/jni/tgnet/ConnectionsManager.h:18:10: fatal error: 'bits/unique_ptr.h' file not found
+#include <bits/unique_ptr.h>
+         ^~~~~~~~~~~~~~~~~~~
+1 error generated.
+make: *** [C:/Users/Binary/StudioProjects/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/debug/obj/local/armeabi-v7a/objs-debug/tmessages.30/./gifvideo.o] Error 1
